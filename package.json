@@ -1,0 +1,21 @@
+{
+  "name": "m10_svglogomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jest ./lib"
+   },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
