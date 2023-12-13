@@ -4,7 +4,7 @@
 A logo maker capable of creating simple logos in SVG format. This tool is useful for developers to add logos to webpages without the need for a graphic designer, offering a cost-effective and efficient solution."
 ## Table of Contents
 * [Installation](#installation)
-* [How to Use This Application](#HowtoUseThisApplication)
+* [Usage](#usage)
 * [Testing](#testing)
 * [Contributors](#contributors)
 * [Questions](#questions)
@@ -12,8 +12,12 @@ A logo maker capable of creating simple logos in SVG format. This tool is useful
 ## Installation
 Clone repo => install dependencies 
 
-## How to Use This Application:
+## Usage
 Call 'node index' from the command line to start the application. You will be prompted with questions. Then your SVG logo will be created based on your answers.
+
+Mock Video
+
+https://drive.google.com/file/d/1aDNTKWaWw84s23Pt5WejbxriJciXRoOR/view
 
 ## Testing
 Call 'npm run test' a series of test will run to check if the shapes are being rendered correctly.
