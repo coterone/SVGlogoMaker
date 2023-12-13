@@ -43,7 +43,7 @@ async function promptUser() {
         </svg>
     `;
 
-    fs.writeFileSync('logo.svg', svgContent);
+    fs.writeFileSync('./examples/examplelogo.svg', svgContent);
     console.log('Generated logo.svg');
 }
 
