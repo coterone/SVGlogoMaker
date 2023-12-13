@@ -1,4 +1,4 @@
-# ReadMeGenerator 
+# SVGlogoMaker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 A logo maker capable of creating simple logos in SVG format. This tool is useful for developers to add logos to webpages without the need for a graphic designer, offering a cost-effective and efficient solution."
